@@ -1,2 +1,2 @@
 # nuveo-app
-Frontend utilisateur (React/Next.js)
+Frontend utilisateur (React/Next.js) Vercel
